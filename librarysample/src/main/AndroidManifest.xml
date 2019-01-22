@@ -6,7 +6,6 @@
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:supportsRtl="true">
-        <activity android:name=".HomeActivity"></activity>
     </application>
 
 </manifest>
